@@ -1656,31 +1656,6 @@
   background: url("https://i.imgur.com/351bGjn.png") no-repeat; /* principal image */
   background-size: 100%;
 }
-:root .app-2CXKsg::after {
-  bottom: 20px;
-  right: 45%;
-  width: 40px;
-  height: 40px;
-  background: url("https://i.imgur.com/OBSWYht.png");
-  background-size: 100%;
-}
-:root .layers-OrUESM::before {
-  z-index: 0;
-  bottom: 75px;
-  right: 0;
-  width: 20px;
-  height: 50px;
-  background: url("https://i.imgur.com/WveiFXb.png") no-repeat;
-  background-size: 100%;
-}
-:root .layers-OrUESM::after {
-  bottom: 15px;
-  right: 100px;
-  width: 25px;
-  height: 25px;
-  background: url("https://i.imgur.com/WBUag7e.png") no-repeat;
-  background-size: 100%;
-}
 :root .bg-1QIAus::after {
   top: 45px;
   right: 385px;
